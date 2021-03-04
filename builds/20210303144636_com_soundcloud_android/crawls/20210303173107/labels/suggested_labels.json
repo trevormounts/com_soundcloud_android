@@ -1,0 +1,71 @@
+{
+    "elems": {
+        "iter_00000_step_00009_21_android.widget.FrameLayout.png": {
+            "inp_email": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00009_26_android.widget.FrameLayout.png": {
+            "inp_password": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00010_14_android.widget.FrameLayout.png": {
+            "inp_email": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00011_14_android.widget.FrameLayout.png": {
+            "inp_email": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00013_66_android.widget.TextView.png": {
+            "btn_first_track": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00015_38_android.view.ViewGroup.png": {
+            "btn_playlists": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00022_66_android.widget.TextView.png": {
+            "btn_first_track": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    }, 
+    "screens": {}
+}

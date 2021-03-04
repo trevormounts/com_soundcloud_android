@@ -1,0 +1,53 @@
+{
+    "elems": {
+        "iter_00000_step_00007_15_android.widget.Button.png": [
+            "btn_create_account"
+        ], 
+        "iter_00000_step_00007_16_android.widget.Button.png": [
+            "btn_to_login"
+        ], 
+        "iter_00000_step_00009_22_android.widget.EditText.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00009_27_android.widget.EditText.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00010_15_android.widget.EditText.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00011_20_android.widget.EditText.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00015_33_android.widget.Button.png": [
+            "btn_liked_tracks"
+        ], 
+        "iter_00000_step_00015_39_android.widget.Button.png": [
+            "btn_playlists"
+        ], 
+        "iter_00000_step_00017_23_android.widget.TextView.png": [
+            "inp_search_playlists"
+        ], 
+        "iter_00000_step_00019_15_android.widget.ImageButton.png": [
+            "btn_exit_search"
+        ], 
+        "iter_00000_step_00021_12_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00021_14_android.widget.EditText.png": [
+            "inp_search_playlists"
+        ], 
+        "iter_00000_step_00021_65_android.widget.ImageView.png": [
+            "btn_library"
+        ], 
+        "iter_00000_step_00022_83_android.widget.ImageView.png": [
+            "btn_home"
+        ], 
+        "iter_00000_step_00022_87_android.widget.ImageView.png": [
+            "btn_search"
+        ], 
+        "iter_00000_step_00022_89_android.widget.ImageView.png": [
+            "btn_library"
+        ]
+    }, 
+    "screens": {}
+}

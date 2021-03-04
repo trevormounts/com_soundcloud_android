@@ -1,0 +1,402 @@
+{
+    "001 Login with account": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_to_login"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "trevormounts@gmail.com", 
+                "grep_count": null, 
+                "input": "text_entry", 
+                "label_count": null, 
+                "labels": [
+                    "inp_email"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "brown1892", 
+                "grep_count": null, 
+                "input": "text_entry", 
+                "label_count": null, 
+                "labels": [
+                    "inp_password"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [
+            "all"
+        ], 
+        "temp_id": "b128e8b3-7c6a-11eb-bdd8-787b8ade0f4b", 
+        "title": "001 Login with account"
+    }, 
+    "002 Search playlists": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_library"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_playlists"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "house music ", 
+                "grep_count": null, 
+                "input": "text_entry", 
+                "label_count": null, 
+                "labels": [
+                    "inp_search_playlists"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_exit_search"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_home"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [
+            "all"
+        ], 
+        "temp_id": "c29257e1-7c6d-11eb-999a-787b8ade0f4b", 
+        "title": "002 Search playlists"
+    }, 
+    "003 Search+Like": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_search"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "house music ", 
+                "grep_count": null, 
+                "input": "text_entry", 
+                "label_count": null, 
+                "labels": [
+                    "inp_search_soundcloud"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_playlists"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_tracks"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_home"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_first_track"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_like"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_like"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_exit"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [
+            "all"
+        ], 
+        "temp_id": "9bdafed1-7c71-11eb-b1d8-787b8ade0f4b", 
+        "title": "003 Search+Like"
+    }, 
+    "004 Play/Pause Liked track": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_library"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_liked_tracks"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_play_track"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_pause"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_home"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "9a9833d4-7c79-11eb-935e-787b8ade0f4b", 
+        "title": "004 Play/Pause Liked track"
+    }, 
+    "005 Find like play": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [], 
+        "tags": [], 
+        "temp_id": "15c27ba1-7cfc-11eb-b3ae-787b8ade0f4b", 
+        "title": "005 Find like play"
+    }, 
+    "Soundcloud Regression": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "001 Login with account", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "test_case", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "002 Search playlists", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "test_case", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "003 Search+Like", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "test_case", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "004 Play/Pause Liked track", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "test_case", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "d8e834a1-7c7b-11eb-ac9e-787b8ade0f4b", 
+        "title": "Soundcloud Regression"
+    }
+}

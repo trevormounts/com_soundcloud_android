@@ -1,0 +1,62 @@
+{
+    "elems": {
+        "iter_00000_step_00013_38_android.view.ViewGroup.png": {
+            "btn_playlists": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00018_83_android.widget.ImageButton.png": {
+            "btn_pause": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00023_91_android.widget.ImageButton.png": {
+            "btn_pause": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00024_15_android.widget.Button.png": {
+            "btn_create_account": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00024_16_android.widget.Button.png": {
+            "btn_to_login": {
+                "all_scores": {
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00026_26_android.widget.FrameLayout.png": {
+            "inp_password": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    }, 
+    "screens": {}
+}
